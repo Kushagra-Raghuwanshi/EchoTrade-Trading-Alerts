@@ -33,7 +33,7 @@ Crypto Signals is a command line tool that automates your crypto currency Techni
 
 You can build on top of this tool and implement algorithm trading and some machine learning models to experiment with predictive analysis.
 
-### Founded by Abenezer Mamo @ www.Mamo.io & www.linkedin.com/in/AbenezerMamo
+### Founded by [Founder](https://www.linkedin.com/in/kushagra-raghuwanshi-138b31370/)
 
 ## Installing And Running
 The commands listed below are intended to be run in a terminal.
